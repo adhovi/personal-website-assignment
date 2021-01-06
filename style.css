@@ -101,10 +101,8 @@ h3{
 }
 .inquiry-area{
     height:200px;
-    padding:100px;
-    padding-left: 300px;
+    padding:100px 100px;
     background-color: #F8F9FC;
-    ;
 }
 .inquiry-area a{
     height:300px;
@@ -112,6 +110,7 @@ h3{
 }
 .inquiry-bg{
     background-image: url(icons/inquiry-bg.png);
+    background-position:center;
     background-repeat: no-repeat;
     width: 94%;
     height: 60%;
@@ -122,8 +121,8 @@ h3{
 .single-inquiry{
     width:30%;
     float:left;
-    margin-left:0%;
-    padding-left:0%;
+    margin-left:5%;
+    padding-left:5%;
 }
 .single-inquiry a{
     margin-top: 100px;
