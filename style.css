@@ -88,6 +88,7 @@ h3{
     font-size:40px;
 }
 .single-project{
+    height:70%;
     width:25%;
     float:left;
     margin:2%;
@@ -112,7 +113,6 @@ h3{
 }
 .inquiry-bg{
     background-color: #F8F9FC;
-    height300px;
 }
 .inquiry{
     text-align: center;
