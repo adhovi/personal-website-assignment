@@ -100,29 +100,32 @@ h3{
     width:100%;
 }
 .inquiry-area{
-    height:200px;
-    padding:100px 100px;
-    background-color: #F8F9FC;
+    background-image:url(icons/inquiry-bg-new.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size:50%;
+    margin-bottom:0;
+    height:250px;
 }
 .inquiry-area a{
     height:300px;
-
 }
 .inquiry-bg{
-    background-image: url(icons/inquiry-bg.png);
-    background-position:center;
-    background-repeat: no-repeat;
-    width: 94%;
-    height: 60%;
-    padding-top: 110px;
+    background-color: #F8F9FC;
+    height300px;
+}
+.inquiry{
     text-align: center;
-    padding-left: 150px;
+    /* padding:0 auto; */
+    padding-top: 120px;;
+    padding-left:360px;
 }
 .single-inquiry{
     width:30%;
     float:left;
-    margin-left:5%;
-    padding-left:5%;
+    margin-left:2%;
+    padding-left:2%;
+    text-align:center;
 }
 .single-inquiry a{
     margin-top: 100px;
